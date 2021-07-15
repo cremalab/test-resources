@@ -1,6 +1,8 @@
 # Welcome
 This repo contains software testing resources, links, and commentary that go along with a Testing @ Crema talk given by the Crema Test Engineering team. 
 
+A PDF of the slides is uploaded to the repo.
+
 # General Testing
 - [Modern Testing Principles](https://www.moderntesting.org/)
 - [Ministry of Testing](https://www.ministryoftesting.com)
