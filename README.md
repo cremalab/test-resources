@@ -33,4 +33,4 @@ This repo contains software testing resources, links, and commentary that go alo
 # Contact Us
 The presentation was put together by Crema's Test Engineering Team. You can read more about our [Test Engineering role and meet the entire team here](https://www.crema.us/careers/test-engineer). 
 
-If you have any follow up questions or want to discuss future Test Engineer openings contact Courtney via [Email](mailto:courtney@crema.us.), [LinkedIn](https://www.linkedin.com/in/courtneyjohnston/), or  [Twitter](https://twitter.com/teststash)
+If you have any follow up questions or want to discuss future Test Engineer openings contact Courtney via [Email](mailto:courtney@crema.us), [LinkedIn](https://www.linkedin.com/in/courtneyjohnston/), or  [Twitter](https://twitter.com/teststash).
